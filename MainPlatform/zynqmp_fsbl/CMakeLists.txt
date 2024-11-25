@@ -18,6 +18,18 @@ collect(PROJECT_LIB_DEPS xilffs)
 collect(PROJECT_LIB_DEPS xilsecure)
 collect(PROJECT_LIB_DEPS xilstandalone;xiltimer;xilffs;xilsecure;xilpm)
 
+
+
+
+
+
+
+
+
+
+
+
+
 collect(PROJECT_LIB_DEPS gcc)
 collect(PROJECT_LIB_DEPS c)
 list (APPEND _deps ${USER_LINK_LIBRARIES})

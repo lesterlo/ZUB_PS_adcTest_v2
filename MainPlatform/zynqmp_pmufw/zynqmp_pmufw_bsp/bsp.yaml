@@ -1,7 +1,7 @@
 sdt: hw_artifacts\psu_pmu_0_baremetal.dts
 family: ZynqMP
 path: C:\FPGA_ws\vitis_ws\ZUB_PS_adcTest_v2\MainPlatform\zynqmp_pmufw\zynqmp_pmufw_bsp
-config: default
+config: None
 os: standalone
 os_info:
   standalone:

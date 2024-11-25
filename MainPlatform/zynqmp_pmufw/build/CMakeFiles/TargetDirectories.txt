@@ -1,0 +1,3 @@
+C:/FPGA_ws/vitis_ws/ZUB_PS_adcTest_v2/MainPlatform/zynqmp_pmufw/build/CMakeFiles/pmufw.elf.dir
+C:/FPGA_ws/vitis_ws/ZUB_PS_adcTest_v2/MainPlatform/zynqmp_pmufw/build/CMakeFiles/edit_cache.dir
+C:/FPGA_ws/vitis_ws/ZUB_PS_adcTest_v2/MainPlatform/zynqmp_pmufw/build/CMakeFiles/rebuild_cache.dir

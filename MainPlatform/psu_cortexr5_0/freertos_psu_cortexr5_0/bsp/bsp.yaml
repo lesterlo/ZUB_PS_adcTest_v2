@@ -1,7 +1,7 @@
 sdt: hw_artifacts\psu_cortexr5_0_baremetal.dts
 family: ZynqMP
 path: C:\FPGA_ws\vitis_ws\ZUB_PS_adcTest_v2\MainPlatform\psu_cortexr5_0\freertos_psu_cortexr5_0\bsp
-config: default
+config: None
 os: freertos
 os_info:
   standalone:

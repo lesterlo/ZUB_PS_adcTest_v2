@@ -1,0 +1,15 @@
+{
+  "name": "R5c0_App",
+  "type": "HOST",
+  "platform": "C:\\FPGA_ws\\vitis_ws\\ZUB_PS_adcTest_v2\\MainPlatform\\export\\MainPlatform\\MainPlatform.xpfm",
+  "domain": "freertos_psu_cortexr5_0",
+  "cpuInstance": "psu_cortexr5_0",
+  "cpuType": "cortex-r5",
+  "os": "freertos",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "freertos_psu_cortexr5_0",
+  "applicationFlow": "EMBEDDED"
+}
