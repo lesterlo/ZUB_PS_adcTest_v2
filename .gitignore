@@ -5,7 +5,7 @@ _ide/
 *.tmp
 
 # Exlcude the platform directory that generate from .xsa file
-/platform*
+/.*temp*platform*
 
 # Ignore build output directory
 /build
