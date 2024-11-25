@@ -1,0 +1,29 @@
+# Exclude IDE folder
+_ide/
+.cache/
+*.log
+*.tmp
+
+# Exlcude the platform directory that generate from .xsa file
+/platform*
+
+# Ignore build output directory
+/build
+/export
+
+# Ignore object files and dependent files
+.o
+.d
+
+#Ignore logs folder and log files
+/logs
+.log
+
+#Ignore lock files
+.lock
+
+.bin
+.pdi
+.peers.ini
+.repo.yaml
+.vitisWorkspace.json
